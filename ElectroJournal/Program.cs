@@ -118,7 +118,7 @@ namespace ElectroJournal
                 FirstName = "Екатерина",
                 LastName = "Кузнецова",
                 MiddleName = "Владимировна",
-                BirthDate = new DateTime(2013, 8, 22),
+                BirthDate = new DateTime(2013, 9, 22),
                 GroupNumber = "ИСиП-301"
             };
 
